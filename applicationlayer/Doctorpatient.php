@@ -140,7 +140,7 @@
         <div class="box-container">
             <div class="box">
                 <i class="fa-solid fa-right-to-bracket"></i>
-                <h3>Login As Paitent</h3>
+                <h3>Login As Patient</h3>
                 <a href="login.php" class="btn">Sign In <span class="fas fa-chevron-right"></span> </a>
             </div>
             <div class="box">
@@ -204,7 +204,7 @@
     <!--Health Checker Ends-->
     <!--Footer Starts-->
     <footer>
-        &copy 2024 India, All Rights Reserved By Made In India
+        &copy 2024 India, All Rights Reserved By Med-In-India
     </footer>
     <!--Footer Ends-->
 
