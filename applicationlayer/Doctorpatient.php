@@ -156,6 +156,56 @@
         </div>
     </section>
     <!--Login Section Ends-->
-<!--Health Check Starts-->
-<section class="health"
+    <!--Health Check Starts-->
+    <section class="health" id="health">
+        <h1 class="heading" style="margin-top:50px;">Health Tracker</h1>
+        <div id="container">
+            <!--Existing from inputs-->
+            <label for="heartRate">Heart Rate:</label>
+            <input type="number" id="heartRate" placeholder="Enter heart rate" required>
+            <label for="systolic">Systolic Pressure</label>
+            <input type="number" id="systolic" placeholder="Enter Systolic Pressure" required>
+            <label for="diastolic">Diastolic Pressure</label>
+            <input type="number" id="diastolic" placeholder="Enter Diastolic Pressure" required>
+            <label for="hi">Height (cm): </label>
+            <input type="number" id="hi" placeholder="Enter Height in cm" required>
+            <label for="we">Weight (kg): </label>
+            <input type="number" id="we" placeholder="Enter Weight in kg" required>
+            <button onclick="calculateHealth();">Calculate</button>
+
+            <div id="result"></div>
+            <!-- Health History Table -->
+            <div id="history">
+                <h2>Health History</h2>
+                <table id="historyTable" display="none;">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Time</th>
+                            <th>Heart Rate</th>
+                            <th>Systolic</th>
+                            <th>Diastolic</th>
+                            <th>BMI</th>
+                        </tr>
+                    </thead>
+                    <tbody id="historyBody"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <script src="scripta.js"></script>
+    </section>
+    <section class="chart" id="chart">
+        <canvas id="healthChart"></canvas>
+    </section>
+    <section class="chart" id="chart">
+        <button onclick="location.reload();">Refresh To See The Updated Chart Table</button>
+    </section>
+    <!--Health Checker Ends-->
+    <!--Footer Starts-->
+    <footer>
+        &copy 2024 India, All Rights Reserved By Made In India
+    </footer>
+    <!--Footer Ends-->
+
 </body>

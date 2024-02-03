@@ -57,3 +57,30 @@ if (mysqli_num_rows($result) == 1) {
             <label style="padding-left:35px;">Blood Type : <?php echo $col['Bloodtype']; ?></label><br><br>
         </div>
     </form>
+    <div class="image1" style="position:absolute;right:12%;top: 195px">
+            <img src="image/Info.gif" alt=""></i></a>
+        </div>
+</body>
+<script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/3d4cf0b1-b1d8-43db-816d-95e960425658/webchat/config.js" defer></script>
+</html>
+
+<!--<?php if (isset($_SESSION['success'])) : ?> 
+            <div class="error success" > 
+                <h3> 
+                    <?php
+                         
+                        unset($_SESSION['success']); 
+                    ?> 
+                </h3> 
+            </div> 
+        <?php endif ?> 
+
+        $Patientsearch = mysqli_real_escape_string($mysqli,$_POST['Patientsearch']);
+	
+	$query="SELECT * FROM patients WHERE UserID=('$Patientsearch')";
+	$result2=mysqli_query($mysqli,$query);
+
+   
+        <!-- information of the user logged in -->
+        <!-- welcome message for the logged in user -->
