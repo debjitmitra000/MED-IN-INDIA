@@ -110,7 +110,7 @@
 
 <body>
     <!--header section starts-->
-    <header class="headr">
+    <header class="header">
         <div class="image1">
             <a href="#home" class="logo" style="margin-left:50px;"><img src="image/Logo.png" alt="" height="50px"></i></a>
         </div>
@@ -124,6 +124,38 @@
     <!--header section starts-->
     <!--Home Section start-->
     <section class="home" id="home">
-        <div class="image"></div>
+        <div class="image">
+            <img src="image/Homepic.gif" alt="">
+        </div>
+        <div class="content">
+            <h3>Stay Happy, Stay Healthy</h3>
+            <p>Empowering Health, Inspiring Hope – Where Compassionate Care Meets Cutting-Edge Expertise. Your Wellness Journey Starts Here</p>
+            <a herf="contactus.php" class="btn">Contact Us<span class="fas fa-chevron-right"></span></a>
+        </div>
+    </section>
     <!--Home Section Ends-->
+    <!--Login Section Starts-->
+    <section class="login" id="login">
+        <h1 class="heading">Login</h1>
+        <div class="box-container">
+            <div class="box">
+                <i class="fa-solid fa-right-to-bracket"></i>
+                <h3>Login As Paitent</h3>
+                <a href="login.php" class="btn">Sign In <span class="fas fa-chevron-right"></span> </a>
+            </div>
+            <div class="box">
+                <i class="fa-solid fa-right-to-bracket"></i>
+                <h3>Login As Admin</h3>
+                <a href="login3.php" class="btn">Sign In <span class="fas fa-chevron-right"></span> </a>
+            </div>
+            <div class="box">
+                <i class="fa-solid fa-right-to-bracket"></i>
+                <h3>Login As Doctor</h3>
+                <a href="login2.php" class="btn">Sign In <span class="fas fa-chevron-right"></span> </a>
+            </div>
+        </div>
+    </section>
+    <!--Login Section Ends-->
+<!--Health Check Starts-->
+<section class="health"
 </body>
