@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+:root{
+    --green:#16a085;
+    --black: #444;
+    --light-color:#777;
+    --text-shadow: #444;
+    --box-shadow:.5rem .5rem 0 rgba(22,160,133,.2);
+    --border:.2rem solid var(--green);
+}
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-transform: capitalize;
+    transition: all .2s ease-out;
+    text-decoration: none;
+}
+html{
+    font-size: 10px;
+    overflow-x: hidden;
+    scroll-padding-top: 7rem;
+    scroll-behavior: smooth;
+}
+body{
+	font-size: 120%;
+	background: #ffffff;
+
+}
+.header{
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    box-shadow: 0 .5rem 1.5rem rgba(0,0,0,.1);
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+}
+
+.header .logo{
+    font-size: 2.5rem;
+    color: var(--black);
+}
+.header .logo i{
+    color: var(--green);
+    font-size: 6rem;
+}
+.header .navbar a{
+    font-size: 1.7rem;
+    color: var(--light-color);
+    margin-left: 2rem;
+}    
+.header .navbar a:hover{
+    color: var(--green);
+}
+
+
+
+section{
+    width: 400px;
+    position: absolute;
+    right: 19%;
+    top: 23%;
+
+}
+
+form{
+
+	width: 100%;
+	margin:0px auto;
+	padding: 20px;
+	border: 2px solid #16a085;
+	background: white;
+	border-radius: 0px 0px 5px 5px;
+
+}
+
+.Dheader{
+	width: 100%;
+	margin: 50px auto 0px;
+	color: white;
+	background: #16a085;
+	text-align: center;
+	border: 2px solid #16a085;
+	border-bottom: none;
+	border-radius: 5px 5px 0px 0px ;
+	padding: 20px;
+}
+
+.input-groupD{
+	margin: 10px 0px 10px 0px;
+}
+
+.input-groupD label{
+	display: block;
+	text-align: left;
+	margin: 6px 3px;
+}
+
+.input-groupD input{
+	height: 30px;
+	width: 99%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border:1px solid grey;
+}
+
+.btnD{
+
+	padding: 5px 20px;
+	font-size: 15px;
+	color: white;
+	background: #16a085;
+	border:none;
+	border-radius: 3px;
+    margin: 15px 0px;
+}
+
+.error{
+
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px;
+	border:1px solid #a94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
+
+
+#gif{
+    position: absolute;
+    top: 23%;
+    left: 15%;
+    width: 420px;
+}
