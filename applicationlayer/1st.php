@@ -22,11 +22,7 @@ include '../datalayer/server.php'; ?>
 
 		<?php include ('../datalayer/errors.php'); ?>
 
-		<div class="input-group">
-			<label>User ID</label>
-			<input type="text" name="UserID" >
-
-		</div>
+		
 
 
 		<div class="input-group">
