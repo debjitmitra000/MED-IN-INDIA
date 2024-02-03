@@ -83,7 +83,7 @@
 
     .container2 .card {
       position: relative;
-      width: 300px;
+      width: 271px;
       height: 400px;
       background: rgba(255, 255, 255, 0.05);
       box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
@@ -188,77 +188,77 @@
 
       <div class="card">
         <div class="content1">
-          <div class="imgbx"><img src="image/2.jpg"></div>
+          <div class="imgbx"><img src="image/T2.png"></div>
           <div class="contentbx">
-            <h3>Sugnik Tarafdar<br><span>Cloud Database Developer<br>Hooghly Enginerring & Technology College(HETC)</span></h3>
+            <h3>Sugnik Tarafder<br><span>Cloud Database Developer<br>Hooghly Engineering & Technology College(HETC)</span></h3>
           </div>
         </div>
         <ul class="sci">
           <li style="--i:1">
-            <a href="https://github.com/ArjoSugnik"><i class="fa-brands fa-github"></i></a>
+            <a href="#"><i class="fa-brands fa-github"></i></a>
           </li>
           <li style="--i:2">
-            <a href="https://www.linkedin.com/in/sugnik-tarafder"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
           </li>
           <li style="--i:3">
-            <a href="https://twitter.com/sugniktarafder"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
           </li>
         </ul>
       </div>
       <div class="card">
         <div class="content1">
-          <div class="imgbx"><img src="image/4.jpg"></div>
+          <div class="imgbx"><img src="image/T2.png"></div>
           <div class="contentbx">
             <h3>Sayar Paul<br><span>Frontend Developer<br>Hooghly Enginerring & Technology College(HETC)</span></h3>
           </div>
         </div>
         <ul class="sci">
           <li style="--i:1">
-            <a href="https://github.com/Sayar-21223"><i class="fa-brands fa-github"></i></a>
+            <a href="#"><i class="fa-brands fa-github"></i></a>
           </li>
           <li style="--i:2">
-            <a href="https://www.linkedin.com/in/sayar-paul-9b7535254/"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
           </li>
           <li style="--i:3">
-            <a href="https://twitter.com/sayar_paul"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
           </li>
         </ul>
       </div>
       <div class="card">
         <div class="content1">
-          <div class="imgbx"><img src="image/3.jpeg"></div>
+          <div class="imgbx"><img src="image/T2.png"></div>
           <div class="contentbx">
             <h3>Debjit Mitra<br><span>Full Stack Developer<br>Hooghly Enginerring & Technology College(HETC)</span></h3>
           </div>
         </div>
         <ul class="sci">
           <li style="--i:1">
-            <a href="https://github.com/debjitmitra000"><i class="fa-brands fa-github"></i></a>
+            <a href="#"><i class="fa-brands fa-github"></i></a>
           </li>
           <li style="--i:2">
-            <a href="https://www.linkedin.com/in/debjitmitra000/"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
           </li>
           <li style="--i:3">
-            <a href="https://twitter.com/debjitmitra000"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
           </li>
         </ul>
       </div>
       <div class="card">
         <div class="content1">
-          <div class="imgbx"><img src="image/1.jpg"></div>
+          <div class="imgbx"><img src="image/T2.png"></div>
           <div class="contentbx">
             <h3>Sourodip Ghosh<br><span>Backend Developer<br>Hooghly Enginerring & Technology College(HETC)</span></h3>
           </div>
         </div>
         <ul class="sci">
           <li style="--i:1">
-            <a href="https://github.com/RajSourodip"><i class="fa-brands fa-github"></i></a>
+            <a href="#"><i class="fa-brands fa-github"></i></a>
           </li>
           <li style="--i:2">
-            <a href="https://www.linkedin.com/in/sourodip-ghosh-177662253/"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
           </li>
           <li style="--i:3">
-            <a href="https://twitter.com/40Sourodip?t=Pw_FrbaSAcJ2LnqQQgZ5LA&s=08"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
           </li>
         </ul>
       </div>
