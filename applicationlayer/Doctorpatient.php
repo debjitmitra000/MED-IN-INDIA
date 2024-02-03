@@ -130,7 +130,7 @@
         <div class="content">
             <h3>Stay Happy, Stay Healthy</h3>
             <p>Empowering Health, Inspiring Hope – Where Compassionate Care Meets Cutting-Edge Expertise. Your Wellness Journey Starts Here</p>
-            <a herf="contactus.php" class="btn">Contact Us<span class="fas fa-chevron-right"></span></a>
+            <a href="contactus.php" class="btn">Contact us<span class="fas fa-chevron-right"></span></a>
         </div>
     </section>
     <!--Home Section Ends-->
