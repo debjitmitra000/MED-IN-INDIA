@@ -59,10 +59,7 @@ include '../../datalayer/bookserver.php';
             </select>
         </div>
 
-        <div class="input-group" style="margin-bottom: 5px;width: 100%;">
-            <label style="display: inline-block;text-align: left;font-size: 1.6rem;">Email ID</label>
-            <input type="text" name="AppoID" style="height: 50px;width: calc(100% - 22px);padding: 10px;font-size: 1.6rem;border-radius: 5px;border: 1px solid #282828;display: inline-block;box-sizing: border-box;">
-        </div>
+        
 
         <div class="input-group">
             <label style="display: inline-block;text-align: left;font-size: 1.6rem;">Date</label>
