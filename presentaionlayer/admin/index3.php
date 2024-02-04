@@ -28,11 +28,7 @@
 
 		<?php include('../../datalayer/errors.php'); ?>
 
-		<div class="input-groupA">
-			<label>Doctor ID</label>
-			<input type="text" name="addID">
-
-		</div>
+		
 
 
 		<div class="input-groupA">
