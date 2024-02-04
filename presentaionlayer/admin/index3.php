@@ -99,7 +99,7 @@
 		</div>
 
 	</form>
-	<img src="image/Doc-Patient.gif" alt="" style="width:300px;position absolute; position: absolute;top: 350px;right: 290px;">
+	<img src="image/Doc-Patient.gif" alt="" style="width:300px;position: absolute; top: 350px;right: 290px;">
 </body>
 
 </html>
