@@ -16,8 +16,8 @@ if (isset($_POST['send'])) {
         $mail->isSMTP();
         $mail->Host       = 'smtp.elasticemail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'debjitmitra.portfolio@gmail.com'; // Replace with your Elastic Email username
-        $mail->Password   = 'DB01ADFDE6B73B16413FB202C7C3728F933B'; // Replace with your Elastic Email password
+        $mail->Username   = 'abcd@gmail.com'; // Replace with your Elastic Email username
+        $mail->Password   = 'abcd'; // Replace with your Elastic Email password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
 
