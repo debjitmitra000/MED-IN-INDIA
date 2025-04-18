@@ -15,7 +15,7 @@
 
 ## 💡 About The Project
 
-**Med-In-India** bridges the gap between patients and healthcare with a comprehensive virtual medical solution. Created at India's first AI-powered hackathon (Diversion 2k24), our platform revolutionizes healthcare accessibility through technology.
+**Med-In-India** is a comprehensive healthcare platform designed to simplify and enhance patient experiences. It offers features like virtual doctor consultations, health chatbot interactions, appointment booking, and organ donation support. Patients can track health metrics, view personalized BMI reports, and monitor changes over time. A built-in map helps locate nearby hospitals easily, while doctors can generate and email health reports automatically. It aims to digitize healthcare while keeping patients at the center of the experience.
 
 > "Bringing quality healthcare to every corner of India through innovation and technology."
 
