@@ -50,14 +50,17 @@
 ## 🛠️ Technologies Used
 
 <div align="center">
-  <img src="https://dmicon.netlify.app/img/HTML.png" alt="HTML" width="60px" />
-  <img src="https://dmicon.netlify.app/img/CSS.png" alt="CSS" width="60px" />
-  <img src="https://dmicon.netlify.app/img/JS.png" alt="JS" width="64px" />
-  <img src="https://dmicon.netlify.app/img/PHP.png" alt="PHP" width="60px" />
-  <img src="https://dmicon.netlify.app/img/WEBRTC.png" alt="WEBRTC" width="60px" />
-  <img src="https://dmicon.netlify.app/img/MYSQL.png" alt="MYSQL" width="60px" />
-  <img src="https://dmicon.netlify.app/img/GSAP.png" alt="GSAP" width="60px" />
-  <img src="https://dmicon.netlify.app/img/AGORA.png" alt="AGORA" width="60px" />
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agora.io-009FFF?style=for-the-badge&logo=Agora&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+
 </div>
 
 ## 🚀 Installation & Setup
